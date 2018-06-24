@@ -10,7 +10,7 @@ https://api.coinpark.cc
 * [签名认证](https://github.com/coinparkcc/API_Docs/wiki/API_Sign)
 * [API请求、返回格式说明](https://github.com/coinparkcc/API_Docs/wiki/Request_Response)
 * [API Reference](https://github.com/coinparkcc/API_Docs/wiki/API_Reference)
-* [示例](https://github.com/coinparkcc/REST-API-demo)
+* [示例](https://github.com/coinparkcc/REST-API-demos)
 
 # WebSocket API
 敬请期待
