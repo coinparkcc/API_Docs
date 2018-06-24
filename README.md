@@ -14,3 +14,6 @@ https://api.coinpark.cc
 
 # WebSocket API
 敬请期待
+
+
+English Documents <a href='https://github.com/coinparkcc/API_Docs_en'>click here</a>
