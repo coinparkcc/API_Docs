@@ -1,9 +1,9 @@
 CoinPark交易所提供REST API 和 WebSocket API，便于投资者查看行情、快速交易。
 # README
 ### CoinPark交易所
-https://www.coinpark.cc
+https://www.coinpark.com
 ### API请求路径
-https://api.coinpark.cc
+https://api.coinpark.com
 
 # REST API
 支持CoinPark交易所所有交易对。
