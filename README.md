@@ -13,7 +13,8 @@ https://api.coinpark.com
 * [示例](https://github.com/coinparkcc/REST-API-demos)
 
 # WebSocket API
-敬请期待
+* [签名、请求、返回格式说明](https://github.com/coinparkcc/API_Docs/wiki/WS_Intro)
+* [API Reference](https://github.com/coinparkcc/API_Docs/wiki/WS_Reference)
 
 
 English Documents <a href='https://github.com/coinparkcc/API_Docs_en'>click here</a>
